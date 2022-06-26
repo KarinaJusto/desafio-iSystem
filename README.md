@@ -1,4 +1,4 @@
-Testes realizados com a ferramente CYPRESS
+Testes realizados com a ferramenta CYPRESS
 
 Dependências:
 Utilizar uma IDE, ex: Vscode
