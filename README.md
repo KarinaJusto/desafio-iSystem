@@ -1,6 +1,6 @@
 Testes realizados com a ferramenta CYPRESS
 
-Dependências:
+Dependências: <br>
 Utilizar uma IDE, ex: Vscode <br>
 Ter o cypress versão 9.5.3 instalado: npm install --save-dev cypress@9.5.3
 
