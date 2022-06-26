@@ -1,5 +1,5 @@
 
-import signinPage from '../pages/SinginPage' 
+import signinPage from '../pages/SigninPage' 
 import signinFactory from '../factories/SigninFactory'
 
 describe('Acesso sistema Swag Labs', () => {
