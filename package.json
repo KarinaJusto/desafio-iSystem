@@ -1,0 +1,14 @@
+{
+  "name": "desafio_isystem",
+  "version": "1.0.0",
+  "description": "Desafio 2 - Automação de Testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Karina Justo",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.3"
+  }
+}
