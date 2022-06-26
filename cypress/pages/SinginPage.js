@@ -1,4 +1,4 @@
-class SignupPage {
+class SigninPage {
 
     //acessa a pagina inicial
     acessPage() {
@@ -30,4 +30,4 @@ class SignupPage {
     }
 }
 
-export default new SignupPage;
+export default new SigninPage;
